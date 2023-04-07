@@ -10,6 +10,9 @@ arranged_data = json.loads(data)
 question_data = arranged_data["results"]
 
 
+#https://opentdb.com/api_config.php
+
+
 
 
 
